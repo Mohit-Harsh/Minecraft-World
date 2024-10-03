@@ -1,39 +1,45 @@
-[07:00:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:00:51] [ServerMain/INFO]: No existing world data, creating new world
-[07:00:52] [ServerMain/INFO]: Loaded 1290 recipes
-[07:00:52] [ServerMain/INFO]: Loaded 1399 advancements
-[07:00:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[07:00:53] [Server thread/INFO]: Loading properties
-[07:00:53] [Server thread/INFO]: Default game type: SURVIVAL
-[07:00:53] [Server thread/INFO]: Generating keypair
-[07:00:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:00:53] [Server thread/INFO]: Using epoll channel type
-[07:00:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:00:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:00:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:00:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:00:53] [Server thread/INFO]: Preparing level "world"
-[07:01:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:01:04] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:05] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:06] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:07] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:09] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:10] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:11] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[07:01:12] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[07:01:12] [Worker-Main-1/INFO]: Preparing spawn area: 57%
-[07:01:13] [Server thread/INFO]: Time elapsed: 8748 ms
-[07:01:13] [Server thread/INFO]: Done (19.542s)! For help, type "help"
-[07:14:29] [Server thread/INFO]: BloodReaper456[/127.0.0.1:58690] logged in with entity id 51 at (166.5, 71.0, 12.5)
-[07:14:30] [Server thread/INFO]: BloodReaper456 joined the game
-[07:15:03] [Server thread/INFO]: BloodReaper456 lost connection: Disconnected
-[07:15:03] [Server thread/INFO]: BloodReaper456 left the game
+[07:49:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:49:57] [ServerMain/INFO]: Loaded 1290 recipes
+[07:49:58] [ServerMain/INFO]: Loaded 1399 advancements
+[07:50:03] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[07:50:03] [Server thread/INFO]: Loading properties
+[07:50:03] [Server thread/INFO]: Default game type: SURVIVAL
+[07:50:03] [Server thread/INFO]: Generating keypair
+[07:50:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:50:04] [Server thread/INFO]: Using epoll channel type
+[07:50:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:50:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:50:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:50:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:50:04] [Server thread/INFO]: Preparing level "world"
+[07:50:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:50:13] [Server thread/INFO]: Time elapsed: 1118 ms
+[07:50:13] [Server thread/INFO]: Done (9.330s)! For help, type "help"
+[07:52:40] [Server thread/INFO]: BloodReaper456[/127.0.0.1:39758] logged in with entity id 3 at (132.45139117065435, 62.17344972656896, 60.737626616202895)
+[07:52:40] [Server thread/INFO]: BloodReaper456 joined the game
+[07:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13941ms or 278 ticks behind
+[07:53:18] [Server thread/INFO]: BloodReaper456 lost connection: Disconnected
+[07:53:18] [Server thread/INFO]: BloodReaper456 left the game
+[07:53:55] [Server thread/INFO]: A player is required to run this command here
+[07:54:50] [Server thread/INFO]: BloodReaper456[/127.0.0.1:55976] logged in with entity id 210 at (119.20030854168373, 67.0, 39.53871079428996)
+[07:54:50] [Server thread/INFO]: BloodReaper456 joined the game
+[07:55:06] [Server thread/INFO]: A player is required to run this command here
+[07:55:06] [Server thread/INFO]: BloodReaper456 was slain by Zombie
+[07:55:45] [Server thread/INFO]: [Not Secure] * BloodReaper456 gamemode creative
+[07:56:31] [Server thread/INFO]: A player is required to run this command here
+[07:57:26] [Server thread/INFO]: Unknown game mode: 
+[07:57:26] [Server thread/INFO]: gamemode @a creative<--[HERE]
+[07:57:59] [Server thread/WARN]: BloodReaper456 moved too quickly! -10.032117810788229,1.5800000131130219,0.07568006717147568
+[07:58:06] [Server thread/WARN]: BloodReaper456 moved too quickly! -10.059920511459737,-0.16610926093821377,0.6974709115446274
+[08:02:03] [Server thread/INFO]: BloodReaper456 has made the advancement [Cover Me with Diamonds]
+[08:02:25] [Server thread/INFO]: BloodReaper456 has made the advancement [Diamonds!]
+[08:03:13] [Server thread/INFO]: BloodReaper456 lost connection: Disconnected
+[08:03:13] [Server thread/INFO]: BloodReaper456 left the game
+[08:04:16] [Server thread/INFO]: BloodReaper456[/127.0.0.1:44600] logged in with entity id 3327 at (-204.5203861452605, 67.0, -325.7482619346357)
+[08:04:16] [Server thread/INFO]: BloodReaper456 joined the game
+[08:05:24] [Server thread/INFO]: [Not Secure] * BloodReaper456 help
+[08:05:48] [Server thread/INFO]: BloodReaper456 lost connection: Disconnected
+[08:05:48] [Server thread/INFO]: BloodReaper456 left the game
